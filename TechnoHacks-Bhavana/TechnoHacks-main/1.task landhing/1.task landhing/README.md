@@ -1,2 +1,2 @@
-# CODSOFT
+# TechnoHacksEduTech
 LANDING PAGE
